@@ -1,23 +1,19 @@
-<div align="center">
-<h1>Hi there 👋 I'm chenxunkun</h1>
-
-I am a passionate developer focused on **full-stack & cross-platform development**.
-Aspiring to become a professional **Full-stack Developer**.
-</div>
+# 👋 Hello, I'm chenxunkun
+I am a passionate developer focused on **full-stack & cross-platform development**.  
+Aspiring to grow into a professional full-stack engineer step by step.
 
 ---
 
-### 🧑‍💻 About Me
-- 🔭 I’m focusing on **University studies & personal engineering projects**
-- 🌱 I’m currently learning **Java | Vue3 | UniApp**
-- 🎯 Future learning plan: **System architecture & Cloud native deployment**
-- 💬 Feel free to ask me about:
-  Java backend · Mini Program development · Database design
+## 🧑‍💻 About Me
+- 🔭 Currently focusing on university studies and independent personal engineering projects
+- 🌱 Main learning stack: **Java / Vue3 / UniApp**
+- 🎯 Future direction: system architecture design & cloud native deployment
+- 💻 You can consult me about: Java backend | Mini Program development | Database design
 
 ---
 
-### 🛠 Tech Stack & Tools
-<p align="center">
+## 🛠 Tech Stack & Tools
+<p>
   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
@@ -35,21 +31,21 @@ Aspiring to become a professional **Full-stack Developer**.
 
 ---
 
-### 🔧 Current Projects & Interests
-- 🔨 Build cross-platform mini-programs based on **UniApp + Vue3**, optimize user experience & performance
-- 🗄 Develop enterprise-level **Java backend services**, integrate MySQL for data persistence & RESTful API
-- 🧪 Use Python for data processing, statistics and lightweight automation scripts to boost efficiency
-- 📝 Standardize coding style, practice clean code, agile development & Git version control
+## 🔧 Current Projects & Interests
+- 🔨 Develop cross-platform mini-programs with UniApp + Vue3, optimize performance and user experience
+- 🗄 Build Java backend service, implement MySQL data persistence and standard RESTful interface
+- 🧪 Apply Python to data processing, statistical analysis and lightweight automation tools
+- 📝 Maintain unified coding standards, practice clean code and standardized Git version control
 
 ---
 
-### ⚡ Fun Fact
-- Turn creative ideas into practical interactive products, especially mini-programs & utility tools 🎨
-- Believe that clean architecture + friendly UX = high-quality software 💻
-- Enjoy exploring new frameworks & sharing programming experience with partners
+## ⚡ Personal Hobby & Idea
+- Transform creative ideas into practical interactive products, especially mini-programs and efficiency tools 🎨
+- Insist that reasonable architecture and smooth user experience are the core of high-quality software 💻
+- Keen on learning new technology frameworks and exchanging development experience with peers
 
 ---
 
-### 📫 Contact Me
-- GitHub: [chenxunkun](https://github.com/chenxunkun) · Welcome follow & star 😉
+## 📫 Contact
+- GitHub: [chenxunkun](https://github.com/chenxunkun) · Welcome follow & star ✨
 - Email: chen_xunkun@126.com
