@@ -25,25 +25,7 @@ I am a passionate developer focused on full-stack and cross-platform development
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </p>
 
----
 
-### 📊 Contribution Graph
-![GitHub Contribution Graph](https://github-readme-stats.vercel.app/api?username=chenxunkun&show_icons=true&theme=graywhite)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenxunkun&layout=compact)
-
----
-
-### 🎓 Education
-| **[Your University Name]** | |
-| :--- | :--- |
-| 🕒 Duration | Since 20XX.XX to 20XX.XX |
-| 🎓 Major | Computer Science / Software Engineering |
-| 📍 Location | [Your City, Your Country] |
-| 🌐 Website | [Your University Website] |
-| 📝 GPA | X.XX / 5.0 |
-| 📚 Courses | - Obligatory course<br>- Elective course |
-
----
 
 ### 📫 How to reach me:
 - GitHub: [chenxunkun](https://github.com/chenxunkun) (Why not follow me? 😉)
