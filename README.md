@@ -1,14 +1,11 @@
+chenxunkun GitHub Profile
 # chenxunkun
-
 I am a passionate developer focused on full-stack and cross-platform development. I hope to be a **Full-stack Developer** in the future.
-
 - 🔭 I’m focusing on **My university studies & personal projects**
 - 🌱 I’m currently learning **Java, Vue3 & UniApp**
 - 🎨 I want to learn more about **system architecture & cloud deployment** later
 - 💬 Ask me about **Java backend, Mini Program development, or database design**
-
 ---
-
 ### 🛠 Tech & Tools Preference
 <p>
   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
@@ -24,9 +21,18 @@ I am a passionate developer focused on full-stack and cross-platform development
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </p>
-
-
-
+---
+### 🔧 Current Projects & Interests
+- 🔨 Building cross-platform mini programs with UniApp & Vue3, focusing on user experience optimization
+- 🗄 Developing Java backend projects with MySQL, implementing data persistence and interface development
+- 🧪 Exploring Python for data processing and small-scale automation tools to improve development efficiency
+- 📝 Continuously optimizing code quality, practicing clean code specifications and version control with Git
+---
+### ⚡ Fun Fact
+- I love turning ideas into interactive products, especially cross-platform mini programs and practical small tools 🎨
+- I believe clean code and good user experience are the foundation of great software 💻
+- When I'm not coding, I like to explore new tech frameworks and share development tips with peers
+---
 ### 📫 How to reach me:
 - GitHub: [chenxunkun](https://github.com/chenxunkun) (Why not follow me? 😉)
-- Email: [your-email@example.com]
+- Email: [chen_xunkun@126.com]
