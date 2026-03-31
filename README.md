@@ -1,4 +1,4 @@
-# 👋 Hello, I'm chenxunkun
+# 👋 Hello, I'm Xunkun
 I am a passionate developer focused on **full-stack & cross-platform development**.  
 Aspiring to grow into a professional full-stack engineer step by step.
 
